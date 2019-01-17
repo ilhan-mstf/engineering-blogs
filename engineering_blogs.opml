@@ -227,7 +227,7 @@
       <outline type="rss" text="Oursky" title="Oursky" xmlUrl="https://code.oursky.com/feed/" htmlUrl="https://code.oursky.com/"/>
       <outline type="rss" text="Oyster" title="Oyster" xmlUrl="http://tech.oyster.com/atom.xml" htmlUrl="http://tech.oyster.com/"/>
       <outline type="rss" text="Opensooq" title="Opensooq" xmlUrl="http://engineering.opensooq.com/feed/" htmlUrl="http://engineering.opensooq.com/"/>
-      <outline type="rss" text="OpsGenie" title="OpsGenie" xmlUrl="https://www.opsgenie.com/blog/rss.xml" htmlUrl="https://www.opsgenie.com/blog"/>
+      <outline type="rss" text="Opsgenie" title="Opsgenie" xmlUrl="https://www.opsgenie.com/blog/rss.xml" htmlUrl="https://www.opsgenie.com/blog"/>
       <outline type="rss" text="Panorama Education" title="Panorama Education" xmlUrl="https://engineering.panoramaed.com/feed/" htmlUrl="http://engineering.panoramaed.com/"/>
       <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://www.paypal-engineering.com/feed/" htmlUrl="https://www.paypal-engineering.com/"/>
       <outline type="rss" text="Periscope Data" title="Periscope Data" xmlUrl="https://s3-us-west-1.amazonaws.com/periscope-rss/rss.xml" htmlUrl="https://www.periscopedata.com/blog"/>
