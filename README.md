@@ -283,7 +283,7 @@
 * Oursky https://code.oursky.com/
 * Oyster http://tech.oyster.com/
 * Opensooq http://engineering.opensooq.com/
-* OpsGenie https://engineering.opsgenie.com/
+* OpsGenie https://www.opsgenie.com/blog
 
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
